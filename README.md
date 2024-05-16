@@ -1,5 +1,5 @@
 ## Description
-This project focuses on performing various mathematical calculations. The Calculation.java file handles basic arithmetic operations, factorial calculations, and more.
+The Calculation Project is a Java-based application designed to perform a variety of financial and statistical calculations. Users can input specific financial parameters such as unit cost, interest rate, penalty cost, ordering cost, lead time, mean demand, and standard deviation of demand. The application then computes and provides insights based on these inputs, aiding in financial analysis and decision-making processes.
 
 ### Features
 Addition and subtraction of numbers
